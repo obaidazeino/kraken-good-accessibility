@@ -124,7 +124,7 @@ article div :first-child {
   text-indent: 0;
 }
 
-article div :first-child::first-line {
+article .bodycopy :first-child::first-line {
   color: #1e7c74;
   font-style: italic;
 }
